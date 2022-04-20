@@ -12,17 +12,17 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "",
+      "value": "5ffaedf9-eda6-4ae5-8900-0332c22f7ac8",
       "required": false
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/5ffaedf9-eda6-4ae5-8900-0332c22f7ac8-vmess",
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/ledsafdssg/hrnxdhi",
+  "repository": "https://github.com/ledsafdssg/hrnxdhi",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
