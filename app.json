@@ -17,7 +17,7 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/5ffaedf9-eda6-4ae5-8900-0332c22f7ac8-vmess",
+      "value": "/53fbffce-564c-44ee-81e1-4b440bc7d0cd-vmess",
       "required": true
     }
   },
